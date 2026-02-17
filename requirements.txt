@@ -1,0 +1,6 @@
+
+flask
+ccxt
+pandas
+pandas_ta
+requests
